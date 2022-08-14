@@ -1,15 +1,15 @@
-✨ **My goal is to be better than I was yesterday.\***✨
+✨ **_My goal is to be better than I was yesterday._**✨
 
 - 🌱 I’m currently learning different languages.
 - 📫 How to reach me: venera131916@gmail.com
 - ⚡ Fun fact: I've started programming 01.01.2022
 
-**My stack**
+**_My stack_**
 
-![tool](/anfishka/img/1.png1.png "tool")
+![tool](/img/1.png1.png "tool")
 ![tool](/img/2.png "tool")
-![tool](/img/3.png"tool")
+![tool](/img/3.png "tool")
 ![tool](/img/4.png "tool")
-![tool](/img/5.png"tool")
+![tool](/img/5.png "tool")
 ![tool](/img/6.png "tool")
 ![tool](/img/7.png "tool")
