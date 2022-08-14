@@ -1,4 +1,4 @@
-✨ **_My goal is to be better than I was yesterday._**✨
+✨ # My goal is to be better than I was yesterday. #✨
 
 - 🌱 I’m currently learning different languages.
 - 📫 How to reach me: venera131916@gmail.com
@@ -6,10 +6,16 @@
 
 **_My stack_**
 
-![tool](/img/1.png1.png "tool")
+![tool](/img/1.png "tool")
+
 ![tool](/img/2.png "tool")
+
 ![tool](/img/3.png "tool")
+
 ![tool](/img/4.png "tool")
+
 ![tool](/img/5.png "tool")
+
 ![tool](/img/6.png "tool")
+
 ![tool](/img/7.png "tool")
