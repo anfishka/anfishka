@@ -6,10 +6,10 @@
 
 **My stack**
 
-![Альтернативный текст](/img/kindpng_1636552.png "tool")
-![Альтернативный текст](/img/kindpng_329716.png "tool")
-![Альтернативный текст](/img/kindpng_6417933.png"tool")
-![Альтернативный текст](/img/kindpng_788026.png "tool")
-![Альтернативный текст](/img/PngItem_2880547.png"tool")
-![Альтернативный текст](/img/PngItem_4289255.png "tool")
-![Альтернативный текст](/img/PngItem_6615609.png "tool")
+![tool](/anfishka/img/1.png1.png "tool")
+![tool](/img/2.png "tool")
+![tool](/img/3.png"tool")
+![tool](/img/4.png "tool")
+![tool](/img/5.png"tool")
+![tool](/img/6.png "tool")
+![tool](/img/7.png "tool")
