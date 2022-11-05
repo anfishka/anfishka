@@ -1,8 +1,3 @@
-### ✨My goal is to be better than I was yesterday.✨
-
-- 🌱 I’m currently learning different languages.
-- 📫 How to reach me: venera131916@gmail.com
-- ⚡ Fun fact: I've started programming 01.01.2022
 
 ### My stack
 
