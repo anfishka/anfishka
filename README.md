@@ -1,5 +1,5 @@
-**Hello World!**
-**I'm Hanna Borodina**
+<a href="#">I'm Hanna Borodina</a><br>
+**Hello World!**<br>
 ![giphy (9)](https://github.com/anfishka/anfishka/assets/97487005/57cb8da4-3c77-4f4c-a3e4-d2ec7c420a45)
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
@@ -19,5 +19,5 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-I’m currently learning **C++**
+I’m currently learning **C++**<br>
 Find me on Telegram: **[♡🎀° •𝙖𝙣Բɨ𝘀𝙝ᴋ𝙖•°🎀♡](https://t.me/anfishkaV)**<br>
