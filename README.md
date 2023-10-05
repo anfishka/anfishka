@@ -1,5 +1,4 @@
-<a href="#">I'm Hanna Borodina</a><br>
-**Hello World!**<br>
+<a href="#">I'm Hanna Borodina     </a>
 ![giphy (9)](https://github.com/anfishka/anfishka/assets/97487005/57cb8da4-3c77-4f4c-a3e4-d2ec7c420a45)
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
